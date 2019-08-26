@@ -1,0 +1,8 @@
+.fondo {
+    background-image: url('img/modified.jpg'); background-repeat: no-repeat;
+}
+
+img {
+    width: 80%;
+    height: 70%;
+}
